@@ -1,4 +1,4 @@
-- Live Site URL: [here](https://kevinburle.github.io/profile-card-component_FEM/)
+- Live Site URL: [here](https://kevinburle.github.io/ping-coming-soon-page-master/)
 
 # Frontend Mentor - Ping coming soon page solution
 
